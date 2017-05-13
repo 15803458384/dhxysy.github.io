@@ -1,0 +1,1016 @@
+/*大背景*/
+.bglantian {
+    width: 100%;
+    height: 945px;
+    background: url("../xyimage/images/bg-index_de3c8d4.jpg") no-repeat center top;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 11;
+    overflow: hidden;
+
+}
+
+.innerone {
+    /*display: none;*/
+}
+
+/*左盒子*/
+.innerone .zhongzul {
+    width: 260px;
+    height: 945px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: center;
+    overflow: hidden;
+    z-index: 999;
+    /*display: none;*/
+
+}
+
+.innertow .zhongzul2 {
+    width: 260px;
+    height: 945px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-align: center;
+    overflow: hidden;
+    z-index: 999;
+    background: url("../xyimage/images/bg-left_339130c.png");
+    display: none;
+}
+
+.zhongzul2 .logo {
+    width: 250px;
+    height: 72px;
+    margin: 40px auto 20px;
+    background: url("../xyimage/images/logo_7a8549b.png") no-repeat;
+}
+
+/*左盒子头部*/
+.zhongzul2 .title {
+    width: 250px;
+    height: 42px;
+    margin: 0 auto;
+    background: url("../xyimage/images/title_5772b13.png") no-repeat;
+}
+
+/*左盒子二维码*/
+.zhongzul2 .erweim {
+    width: 160px;
+    height: 170px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px 0 0 10px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+
+}
+
+.zhongzul2 .erweim p {
+    font-family: microsoft yahei;
+    font-size: 16px;
+    padding-top: 20px;
+
+}
+
+/*左盒子官网*/
+.zhongzul2 .guanwang {
+    width: 170px;
+    height: 51px;
+    margin: 0 auto;
+    background: url("../xyimage/images/home_f9f4c66.png") no-repeat left;
+    text-align: center;
+    line-height: 51px;
+    font-size: 18px;
+    font-family: microsoft yahei;
+
+}
+
+/*左盒子logo*/
+.zhongzul .logo {
+    width: 250px;
+    height: 72px;
+    margin: 40px auto 20px;
+    background: url("../xyimage/images/logo_7a8549b.png") no-repeat;
+}
+
+/*左盒子头部*/
+.zhongzul .title {
+    width: 250px;
+    height: 42px;
+    margin: 0 auto;
+    background: url("../xyimage/images/title_5772b13.png") no-repeat;
+}
+
+/*左盒子二维码*/
+.zhongzul .erweim {
+    width: 160px;
+    height: 170px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px 0 0 10px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+
+}
+
+.zhongzul .erweim p {
+    font-family: microsoft yahei;
+    font-size: 16px;
+    padding-top: 20px;
+
+}
+
+/*左盒子官网*/
+.zhongzul .guanwang {
+    width: 170px;
+    height: 51px;
+    margin: 0 auto;
+    background: url("../xyimage/images/home_f9f4c66.png") no-repeat left;
+    text-align: center;
+    line-height: 51px;
+    font-size: 18px;
+    font-family: microsoft yahei;
+
+}
+
+/*左盒子手机*/
+.pingguo, .huawei {
+    margin-bottom: 10px;
+
+}
+
+/*有盒子*/
+.zhongr {
+    padding-left: 260px;
+
+}
+
+/*右盒子的四个人物*/
+.ul-menu {
+    width: 100%;
+    overflow: hidden;
+    display: block;
+}
+
+/*人族*/
+.ul-menu .lis1 {
+    float: left;
+    height: 945px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    width: 24.97%;
+}
+
+/*人物背景*/
+.lis1 .renbg {
+    background: url("../xyimage/images/bg0_2790b97.jpg") no-repeat left top;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+/*人物旁线*/
+.lis1 i {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: url("../xyimage/images/line_2d80994.png") repeat-y left top;
+    width: 2px;
+    z-index: 999;
+}
+
+/*人物图片*/
+.lis1 a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.lis1 a .pic1 {
+    position: relative;
+    height: 815px;
+    width: 100%;
+    margin-left: -150px;
+    margin-top: 20px;
+}
+
+.lis1 a .sp1 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/ren_3590636.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+}
+
+/*任务描述*/
+.lis1 a .sp2 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/ren-h_471714c.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+    display: none;
+}
+
+/*魔主*/
+.ul-menu .lis2 {
+    float: left;
+    height: 945px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    width: 24.97%;
+
+}
+
+.lis2 .renbg {
+    background: url("../xyimage/images/bg1_9bd1c7a.jpg") no-repeat left top;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.lis2 i {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: url("../xyimage/images/line_2d80994.png") repeat-y left top;
+    width: 2px;
+    z-index: 999;
+}
+
+.lis2 a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.lis2 a .pic1 {
+    position: relative;
+    height: 815px;
+    width: 100%;
+    margin-left: -225px;
+    margin-top: 20px;
+}
+
+.lis2 a .sp1 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/mo_7f22a00.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+}
+
+.lis2 a .sp2 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/mo-h_d359c09.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+    display: none;
+}
+
+/*先祖*/
+.ul-menu .lis3 {
+    float: left;
+    height: 945px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    width: 24.97%;
+
+}
+
+/*背景*/
+.lis3 .renbg {
+    background: url("../xyimage/images/bg2_3d2817d.jpg") no-repeat left top;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+/*线*/
+.lis3 i {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: url("../xyimage/images/line_2d80994.png") repeat-y left top;
+    width: 2px;
+    z-index: 999;
+}
+
+/*人物盒子*/
+.lis3 a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.lis3 a .pic1 {
+    position: relative;
+    height: 815px;
+    width: 100%;
+    margin-left: -300px;
+    margin-top: 20px;
+}
+
+/*人物秒数*/
+.lis3 a .sp1 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/xian_6967227.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+}
+
+.lis3 a .sp2 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/xian-h_50780fb.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+    display: none;
+}
+
+/*贵族*/
+.ul-menu .lis4 {
+    float: left;
+    height: 945px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    width: 24.97%;
+
+}
+
+.lis4 .renbg {
+    background: url("../xyimage/images/bg3_20aaf65.jpg") no-repeat left top;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.lis4 i {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: url("../xyimage/images/line_2d80994.png") repeat-y left top;
+    width: 2px;
+    z-index: 999;
+}
+
+.lis4 a {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.lis4 a .pic1 {
+    position: relative;
+    height: 815px;
+    width: 100%;
+    margin-left: -255px;
+    margin-top: 90px;
+}
+
+.lis4 a .sp1 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/gui_50c9f4e.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+}
+
+.lis4 a .sp2 {
+    width: 140px;
+    height: 237px;
+    background: url("../xyimage/images/gui-h_f9b49f6.png") no-repeat;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 425px;
+    left: 25%;
+    display: none;
+}
+
+/*人物盒子*/
+.innertow {
+    display: block;
+    width: 0;
+    z-index: 22;
+}
+
+
+
+/*人族*/
+.renbox {
+    width: 100%;
+    height: 945px;
+    background: url("../xyimage/images/bg0_2790b97.jpg") no-repeat;
+    position: absolute;
+    display: none;
+    overflow: hidden;
+
+}
+
+.renbox .renbg {
+    margin: 0 0 0 321px;
+    position: relative;
+
+}
+
+.renbg .ren-nav {
+    position: absolute;
+    right: 100px;
+    top: 0;
+    z-index: 100;
+    width: 57px;
+    top: 198px;
+}
+
+/*导航类名替换*/
+.renbg .ren-nav .lis1 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat left 0;
+}
+
+.renbg .ren-nav .lis12 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat right 0;
+}
+
+.renbg .ren-nav .lis2 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat left -65px;
+}
+
+.renbg .ren-nav .lis22 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat right -65px;
+}
+
+.renbg .ren-nav .lis3 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat left -131px;
+}
+
+.renbg .ren-nav .lis33 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat right -131px;
+}
+
+.renbg .ren-nav .lis4 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat left -197px;
+}
+
+.renbg .ren-nav .lis44 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-ren_1c0bd6e.png") no-repeat right -197px;
+}
+
+/*逍遥生*/
+
+.xiaoyao,.xiaoyao1,.xiaoyao2,.xiaoyao3 {
+    margin-top: 200px;
+    position: absolute;
+}
+
+/*门派*/
+.menpai {
+    margin: 20px 0 30px 0;
+}
+
+/*技能*/
+.jineng {
+
+}
+
+.jineng li {
+    float: left;
+    margin-right: 27px;
+    position: relative;
+    width: 113px;
+
+}
+
+.jineng li .pic {
+    width: 113px;
+    height: 113px;
+    background: url("../xyimage/images/bg-jn_19fd3f0.png") no-repeat left top;
+    position: relative;
+    cursor: pointer;
+    z-index: 20;
+}
+
+.jineng li .pic img {
+    width: 100px;
+    height: 100px;
+    padding: 4px 0 0 5px;
+}
+
+.jineng li .pic p {
+    color: #fff;
+    font-family: "microsoft yahei";
+    position: absolute;
+    background-color: rgba(0, 0, 0, .5);
+    height: 22px;
+    line-height: 22px;
+    left: 5px;
+    bottom: 9px;
+    width: 100px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.jineng li .con {
+    position: absolute;
+    left: 3px;
+    top: 125px;
+    display: none;
+    z-index: 99;
+    width: 214px;
+    background: url("../xyimage/images/bg-w90_4adbcd2.png");
+    padding: 10px 15px;
+    color: #4777be;
+    font-family: "宋体";
+    height: 84px;
+}
+
+.jineng li .con i {
+    position: absolute;
+    left: 40px;
+    top: -8px;
+    width: 15px;
+    height: 8px;
+    background: url("../xyimage/images/arr-u_2f12fe4.png") no-repeat left top;
+}
+
+.jineng .dtfs {
+    width: 32px;
+    text-align: center;
+    line-height: 23px;
+    font-size: 18px;
+    color: #fff;
+    padding-top: 8px;
+    margin-right: 20px;
+    font-family: "microsoft yahei";
+}
+
+.jineng .zhong {
+    /*position: relative;*/
+    height: 130px;
+}
+
+.jineng .danti {
+    position: relative;
+    z-index: 11;
+}
+
+.jineng .qunti {
+    position: relative;
+    height: 150px;
+    z-index: 22;
+}
+
+/*武器*/
+.wuqi {
+
+}
+
+.wuqishiyong {
+    margin-bottom: 15px;
+
+}
+
+.wuqipic {
+    width: 113px;
+    height: 113px;
+    background: url("../xyimage/images/bg-jn_19fd3f0.png") no-repeat left top;
+    position: relative;
+    cursor: pointer;
+}
+
+.wuqipic img {
+    width: 100px;
+    height: 100px;
+    padding: 4px 0 0 5px;
+}
+
+.wuqipic p {
+    height: 22px;
+    line-height: 22px;
+    background: url("../xyimage/images/bg2-jn_eb0b680.png");
+    position: absolute;
+    left: 5px;
+    bottom: 9px;
+    width: 100px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    font-family: "宋体";
+}
+/*角色*/
+.jiaosepic {
+    position: absolute;
+
+}
+
+
+/*魔族*/
+.mobox {
+    width: 100%;
+    height: 945px;
+    background: url("../xyimage/images/bg1_9bd1c7a.jpg") no-repeat;
+    position: absolute;
+    overflow: hidden;
+    /*top: 0;*/
+    /*left: 0;*/
+
+
+}
+
+.mobox .mobg {
+    margin: 0 0 0 321px;
+    position: relative;
+
+}
+
+.mobg .mo-nav {
+    position: absolute;
+    right: 100px;
+    top: 0;
+    z-index: 100;
+    width: 57px;
+    top: 198px;
+}
+
+/*导航类名替换*/
+.mobg .mo-nav .lis1 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat left 0;
+}
+
+.mobg .mo-nav .lis12 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat right 0;
+}
+
+.mobg .mo-nav .lis2 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat left -65px;
+}
+
+.mobg .mo-nav .lis22 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat right -65px;
+}
+
+.mobg .mo-nav .lis3 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat left -131px;
+}
+
+.mobg .mo-nav .lis33 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat right -131px;
+}
+
+.mobg .mo-nav .lis4 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat left -197px;
+}
+
+.mobg .mo-nav .lis44 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-mo_13cff5a.png") no-repeat right -197px;
+}
+
+/*仙族*/
+.xianbox {
+    width: 100%;
+    height: 945px;
+    background: url("../xyimage/images/bg2_3d2817d.jpg") no-repeat;
+    position: absolute;
+    overflow: hidden;
+    /*top: 0;*/
+    /*left: 0;*/
+}
+
+.xianbox .xianbg {
+    margin: 0 0 0 321px;
+    position: relative;
+
+}
+
+.xianbg .xian-nav {
+    position: absolute;
+    right: 100px;
+    top: 0;
+    z-index: 100;
+    width: 57px;
+    top: 198px;
+}
+
+/*导航类名替换*/
+.xianbg .xian-nav .lis1 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat left 0;
+}
+
+.xianbg .xian-nav .lis12 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat right 0;
+}
+
+.xianbg .xian-nav .lis2 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat left -65px;
+}
+
+.xianbg .xian-nav .lis22 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat right -65px;
+}
+
+.xianbg .xian-nav .lis3 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat left -131px;
+}
+
+.xianbg .xian-nav .lis33 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat right -131px;
+}
+
+.xianbg .xian-nav .lis4 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat left -197px;
+}
+
+.xianbg .xian-nav .lis44 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-xian_c5c6312.png") no-repeat right -197px;
+}
+
+/*贵族*/
+.guibox {
+    width: 100%;
+    height: 945px;
+    background: url("../xyimage/images/bg3_20aaf65.jpg") no-repeat;
+    position: absolute;
+    overflow: hidden;
+    /*top: 0;*/
+    /*left: 0;*/
+
+
+}
+
+.guibox .guibg {
+    margin: 0 0 0 321px;
+    position: relative;
+
+}
+
+.guibg .gui-nav {
+    position: absolute;
+    right: 100px;
+    top: 0;
+    z-index: 100;
+    width: 57px;
+    top: 198px;
+}
+
+/*导航类名替换*/
+.guibg .gui-nav .lis1 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat left 0;
+}
+
+.guibg .gui-nav .lis12 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat right 0;
+}
+
+.guibg .gui-nav .lis2 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat left -65px;
+}
+
+.guibg .gui-nav .lis22 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat right -65px;
+}
+
+.guibg .gui-nav .lis3 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat left -131px;
+}
+
+.guibg .gui-nav .lis33 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat right -131px;
+}
+
+.guibg .gui-nav .lis4 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat left -197px;
+}
+
+.guibg .gui-nav .lis44 {
+    width: 57px;
+    height: 66px;
+    font-size: 0;
+    line-height: 0;
+    background: url("../xyimage/images/menu-gui_ef1fdb6.png") no-repeat right -197px;
+}
+
+
+.nav {
+    position: absolute;
+    width: 100%;
+    left: 321px;
+    top: 94px;
+    z-index: 99;
+    height: 40px;
+    display: none;
+}
+
+.nav  ul  li  a {
+    display: inline-block;
+    width: 101px;
+    height: 67px;
+    background: url("../xyimage/images/bg-nav_b0edcb9.png") no-repeat left top;
+    float: left;
+    margin-right: 5px;
+    font-size: 0;
+    line-height: 0;
+}
+.nav  ul  li  .home {
+    background-position: 0 0;
+}
+.nav  ul  li  .home:hover {
+    background-position: 0 bottom;
+}
+.nav  ul  li  .tnav1 {
+    background-position: -106px 0;
+}
+.nav  ul  li  .tnav1:hover {
+    background-position: -106px bottom;
+}
+.nav  ul  li  .tnav2 {
+    background-position: -211px 0;
+}
+.nav  ul  li  .tnav2:hover {
+    background-position: -211px bottom;
+}
+.nav  ul  li  .tnav3 {
+    background-position: -314px 0;
+}
+.nav  ul  li  .tnav3:hover {
+    background-position: -314px bottom;
+}
+.nav  ul  li  .tnav4 {
+    background-position: -419px 0;
+}
+.nav  ul  li  .tnav4:hover {
+    background-position: -419px bottom;
+}
+
